@@ -26,7 +26,7 @@ public class Testff {
         //assert
         assertEquals(-1, c.compareTo(9));
 
-       // A b = mock(A.class);
+       //jhkjhj
 
         when(a.method()).thenReturn("uuuu");
 
